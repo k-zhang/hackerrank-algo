@@ -26,6 +26,8 @@ class PickingNumbersTest {
                 Arguments.of(ImmutableList.of(1, 2, 2, 3, 1, 2), 5),
                 Arguments.of(ImmutableList.of(), 0),
                 Arguments.of(ImmutableList.of(1, 1, 1, 1), 4),
+                Arguments.of(ImmutableList.of(1), 0),
+                Arguments.of(ImmutableList.of(1, 1, 1, 1, 3, 3, 4), 4),
                 Arguments.of(ImmutableList.of(1, 3, 5, 7), 0));
     }
 }
