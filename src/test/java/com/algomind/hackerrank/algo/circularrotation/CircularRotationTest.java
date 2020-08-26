@@ -1,4 +1,4 @@
-package com.algomind.hackerrank.algo.CircularRotation;
+package com.algomind.hackerrank.algo.circularrotation;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;

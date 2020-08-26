@@ -1,4 +1,4 @@
-package com.algomind.hackerrank.algo.SequenceEquation;
+package com.algomind.hackerrank.algo.sequenceequation;
 
 public class SequenceEquation {
     int[] sequenceEquation(int[] p) {

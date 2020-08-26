@@ -1,4 +1,4 @@
-package com.algomind.hackerrank.algo.CircularRotation;
+package com.algomind.hackerrank.algo.circularrotation;
 
 import java.util.Arrays;
 
